@@ -5,7 +5,7 @@
     <title></title>
     <style>
       h3{
-      color:red;
+      colour:red;
       }
     </style>
     </head>
