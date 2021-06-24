@@ -2,14 +2,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title>my first internship</title>
     <style>
       h3{
-      colour:red;
+      color:red;
       }
     </style>
     </head>
   <body>
-    <h3>Hii My Name is Rajeev Aanjana</h3>
+    <h3 style="color:red;">Hii My Name is Rajeev Aanjana</h3>
   </body>
   </html>
