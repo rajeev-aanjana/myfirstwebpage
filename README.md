@@ -4,6 +4,9 @@
   <head>
     <title>my first internship</title>
     <style>
+      h1{
+      color:blue;
+      }
    
     </style>
     </head>
